@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "oath sign",
+  "base_artist": "LiSA",
+  "createdAt": "2026-02-22T13:44:32.879277Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "oath sign",
+      "artist": "LiSA",
+      "has_synced": false,
+      "path": "select/01_oath_sign_LiSA.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "oath sign",
+      "artist": "LiSA",
+      "has_synced": true,
+      "path": "select/02_oath_sign_LiSA.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "oath sign",
+      "artist": "LiSA",
+      "has_synced": true,
+      "path": "select/03_oath_sign_LiSA.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "oath sign (Acoustic Ver.) - Acoustic Version",
+      "artist": "LiSA",
+      "has_synced": true,
+      "path": "select/04_oath_sign_(Acoustic_Ver.)_-_Acoustic_Version_LiSA.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "oath sign - Acoustic Version",
+      "artist": "LiSA",
+      "has_synced": true,
+      "path": "select/05_oath_sign_-_Acoustic_Version_LiSA.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "oath sign (Acoustic Ver.)",
+      "artist": "LiSA",
+      "has_synced": true,
+      "path": "select/06_oath_sign_(Acoustic_Ver.)_LiSA.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Oath Sign (From \"Fate/Zero\")",
+      "artist": "AmaLee",
+      "has_synced": true,
+      "path": "select/07_Oath_Sign_(From__Fate_Zero_)_AmaLee.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Oath Sign (From \"Fate/Zero\")",
+      "artist": "AmaLee",
+      "has_synced": false,
+      "path": "select/08_Oath_Sign_(From__Fate_Zero_)_AmaLee.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "oath sign (Acoustic Ver.)",
+      "artist": "LiSA",
+      "has_synced": false,
+      "path": "select/09_oath_sign_(Acoustic_Ver.)_LiSA.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "oath sign -2015武道館 Live Chocolate Ver.-",
+      "artist": "LiSA",
+      "has_synced": false,
+      "path": "select/10_oath_sign_-2015武道館_Live_Chocolate_Ver.-_LiSA.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "oath sign - 2015 Budoukan Live Chocolate Version",
+      "artist": "LiSA",
+      "has_synced": false,
+      "path": "select/11_oath_sign_-_2015_Budoukan_Live_Chocolate_Version_LiSA.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Oath Sign",
+      "artist": "Lisa",
+      "has_synced": true,
+      "path": "select/12_Oath_Sign_Lisa.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "oath sign (acoustic version)",
+      "artist": "LiSA",
+      "has_synced": false,
+      "path": "select/13_oath_sign_(acoustic_version)_LiSA.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "oath sign -Acoustic ver.-",
+      "artist": "LiSA",
+      "has_synced": false,
+      "path": "select/14_oath_sign_-Acoustic_ver.-_LiSA.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "oath sign",
+      "artist": "LiSA",
+      "has_synced": false,
+      "path": "select/pl_01_oath_sign_LiSA.txt"
+    }
+  ]
+}
